@@ -1,5 +1,6 @@
 # fuzzy-logic-prototyping-with-c
-Form a logical system that classification and water quality of potable water using fuzzy logic.The form implemented execute the decision making mechanism by calculating specified parameters(CI, CaCo3) in the water.
+Build a logical system that determines the classification and the quality of potable water using fuzzy logic as problem-solving technique.
+This app that implemented is execute the decision mechanism algorithm (see rules table) by calculating specified parameters(CI, CaCo3 etc.) in the water.
 
 Rules Table
 
